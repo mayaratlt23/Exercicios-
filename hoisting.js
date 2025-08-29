@@ -12,3 +12,5 @@ console.log('Minha idade depois de declarar é: ', idade)
 // de onde você declara suas variáveis e funções no seu código, o JavaScript as "eleva" para o início do escopo atual.
 // No entanto, é importante notar que apenas a declaração é elevada, e não a inicialização. Isso pode levar a resultados 
 // inesperados, especialmente com var, onde a variável estará acessível antes da declaração, mas com o valor undefined.
+
+
